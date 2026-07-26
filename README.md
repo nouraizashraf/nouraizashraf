@@ -1,44 +1,18 @@
 <div align="center">
 
-  <!-- 🔥 NEON CYBERPUNK HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg_color&customColorList=0d1117,161b22,1f242d&height=220&section=header&text=MUHAMMAD%20NOURAIZ%20ASHRAF&fontSize=42&fontColor=00F0FF&animation=fadeIn&desc=%E2%9A%A1%20Full%20Stack%20Web%20Developer%20(React)%20%7C%20AI%20Integrations%20%7C%20Automation%20%E2%9A%A1&descSize=16&descAlignY=70&descColor=FF007F" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:A855F7,100:EC4899&height=200&section=header&text=Muhammad%20Nouraiz%20Ashraf&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Lahore%2C%20Pakistan&descSize=17&descAlignY=75&descColor=e2e8f0" width="100%"/>
 
-  <br/><br/>
+</div>
 
-  <!-- 🌐 PROMINENT LIVE PORTFOLIO BANNER -->
-  <a href="https://nouraizashraf.devxyn.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_PORTFOLIO-nouraizashraf.devxyn.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
-  </a>
+<br/>
 
-  <br/><br/>
+<div align="center">
 
-  <!-- DYNAMIC TYPING TERMINAL SIMULATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&multiline=false&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+AI+Integrations+Specialist+%F0%9F%9A%80;Building+Hexa+(Rust%2FC%2B%2B%2FPython+Autonomous+AI)+%F0%9F%A7%A0;Architecting+RAG+Pipelines+%26+White-Label+Portals+%F0%9F%93%84;Crafting+High-Performance+React+%2B+Node%2FFastAPI+Apps+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- QUICK CONTACT BADGES -->
-  <p align="center">
-    <a href="https://nouraizashraf.devxyn.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-nouraizashraf.devxyn.com-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:nouraizashraf08@gmail.com">
-      <img src="https://img.shields.io/badge/Email-nouraizashraf08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/nouraiz-ashraf-626a92345/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-nouraiz--ashraf--626a92345-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/nouraizashraf">
-      <img src="https://img.shields.io/badge/GitHub-nouraizashraf-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-FF5722?style=for-the-badge&logo=google-maps&logoColor=white" />
-  </p>
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nouraizashraf.devxyn.com-6EE7F7?style=for-the-badge)](https://nouraizashraf.devxyn.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouraiz-ashraf-626a92345/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-nouraizashraf08@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouraizashraf08@gmail.com)
 
 </div>
 
@@ -46,232 +20,123 @@
 
 ---
 
-### 🎯 About & Objective
+## 👋 Hey, I'm Nouraiz
 
-```yaml
-developer_profile:
-  name: Muhammad Nouraiz Ashraf
-  portfolio_website: https://nouraizashraf.devxyn.com
-  role: Full Stack Web Developer (React) & AI Integrations Specialist
-  education: BS Computer Science @ University of Central Punjab (UCP), Lahore
-  objective: >
-    Full stack developer with hands-on experience building production web applications,
-    client portals, and automation tools using React, modern backend frameworks, and AI integrations.
-    Seeking a full stack development internship to contribute practical engineering skills.
-```
+I build things that actually work — full-stack web apps, AI-powered tools, and automation systems that save hours of human effort. Currently a CS student at **University of Central Punjab, Lahore**, and shipping real products alongside my coursework.
 
-- 🌐 **Live Portfolio Website**: 👉 **[nouraizashraf.devxyn.com](https://nouraizashraf.devxyn.com)**
-- 🔭 **Currently Building**: **Hexa** (Offline Autonomous AI Assistant) & RAG Document Intelligence Engines.
-- ⚡ **Core Superpowers**: React.js, Multi-Agent Systems (Rust/C++/Python), Playwright Automation, Groq API.
-- 💬 **Ask Me About**: Full-Stack Web Development, SaaS Auth, White-Label Portals, RAG Pipelines.
-- 📍 **Location**: Lahore, Pakistan 🇵🇰
+What I enjoy most is the end-to-end part: taking an idea from a blank file to a deployed, production-grade application. Whether it's a white-label SaaS portal, a multi-agent offline AI assistant, or a browser automation pipeline — I like to see things through.
+
+> *"Comfortable working independently and shipping full projects end-to-end, from architecture to deployment."*
 
 ---
 
-### 💻 Developer Console
-
-```bash
-┌──(nouraizcyber)-[~/cv-profile]
-└─$ cat developer_manifest.json
-```
-
-```json
-{
-  "name": "Muhammad Nouraiz Ashraf",
-  "portfolio": "https://nouraizashraf.devxyn.com",
-  "contact": {
-    "email": "nouraizashraf08@gmail.com",
-    "phone": "+92 305 4544268",
-    "linkedin": "https://www.linkedin.com/in/nouraiz-ashraf-626a92345/",
-    "github": "https://github.com/nouraizashraf"
-  },
-  "education": [
-    "BS Computer Science — University of Central Punjab (UCP), Lahore",
-    "FSc (Pre-Engineering) — Aspire Group of Colleges",
-    "Matriculation (Science) — City Model High School"
-  ],
-  "engineering_ethos": "Shipping production-grade, end-to-end applications with clean architecture & modern AI automation."
-}
-```
-
----
-
-### 🏆 GitHub Achievements & Badges
-
-<div align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=nouraizashraf&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-### ⚡ Technical Skills & Ecosystem
+## 🚀 What I'm Building
 
 <table>
-  <tr>
-    <td align="center" width="25%"><b>💻 Languages & Frameworks</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>🤖 AI & Automation</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/RAG_Pipelines-00F0FF?style=for-the-badge&logo=git&logoColor=black" />
-      <img src="https://img.shields.io/badge/Groq_API-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tesseract_OCR-5C6BC0?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/FFmpeg-0078D7?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-      <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>🗄️ Databases & Storage</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>☁️ Cloud & Tools</b></td>
-    <td width="75%">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Hexa — Offline AI Assistant
+The most ambitious thing on my workbench. A fully offline autonomous AI assistant built with a multi-agent architecture across **Rust, C++, and Python**. Each language handles what it's best at — system control in Rust, OS-level automation in C++, and document intelligence in Python.
+
+**Agents:** CommandAgent · MemoryAgent · SystemAgent · AutomationAgent · DocumentAgent · WebAgent
+
+Features universal app search, keyboard/mouse simulation, OCR, browser automation, and file summarization — all without a cloud dependency.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Zonexy — White-Label Client Portal
+A multi-tenant SaaS portal that lets businesses serve clients under their own brand. Built the full stack: SaaS-grade authentication, per-client dashboards, and the backend APIs powering everything.
+
+---
+
+### 🎯 Xtriq — B2B Lead Scraper
+Automated lead generation pipeline that scrapes, structures, and delivers clean business contact data at scale. Built for real sales workflows, not toy demos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Docs Q&A Chatbot (RAG)
+Upload any document, ask it anything. Built a complete RAG pipeline — chunking, local embeddings, ChromaDB vector store, and Groq Llama-3.3 70B for grounded answers. Includes a React chat UI, persistent conversation history, and an automated accuracy eval suite that targets 90%+.
+
+[**View Repository →**](https://github.com/nouraizashraf/Docx-Q-A-chatbot-RAG-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Reddit Narration Video Pipeline
+A fully automated pipeline that converts text into narrated short-form videos using Groq API, edge-tts, and ffmpeg. Whisper handles auto-captioning. The whole thing runs on a GitHub Actions cron schedule — zero manual steps.
+
+---
+
+### 🔍 Site Auto-Test Crawler
+Node.js + Playwright crawler that walks every page of a site, flags issues, and hands the findings to Groq to summarize in plain English. Google OAuth session handling included.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🔥 Featured Projects Portfolio
+## 🛠️ Tech I Reach For
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Hexa — Offline Autonomous AI Assistant</h3>
-      <p><b>Tech:</b> <code>Rust</code> <code>C++</code> <code>Python</code> <code>Tesseract OCR</code></p>
-      <ul>
-        <li>Offline-first AI assistant with multi-agent system split across Rust, C++, and Python.</li>
-        <li>Architected Command/Memory (Rust), System/Automation (C++), and Document/Web (Python) agents.</li>
-        <li>Features universal settings search, mouse/keyboard automation, OCR, and browser workflows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💼 Zonexy — White-Label Client Portal</h3>
-      <p><b>Tech:</b> <code>React.js</code> <code>Node.js / REST APIs</code> <code>Auth Systems</code></p>
-      <ul>
-        <li>Multi-tenant, white-label client portal enabling businesses to present services under custom branding.</li>
-        <li>Full-stack architecture covering SaaS authentication, client dashboards, and backend endpoints.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Xtriq — B2B Lead Scraper</h3>
-      <p><b>Tech:</b> <code>Python</code> <code>Playwright / Data Pipelines</code></p>
-      <ul>
-        <li>Automated B2B lead generation tool to scrape and structure business contact data at scale.</li>
-        <li>Reliable data extraction pipelines producing clean, actionable output for sales teams.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 Docs Q&A Chatbot (RAG)</h3>
-      <p><b>Tech:</b> <code>FastAPI</code> <code>React</code> <code>ChromaDB</code> <code>Groq Llama-3.3</code></p>
-      <ul>
-        <li>Grounded document Q&A chatbot answering questions from uploaded PDF/TXT/MD files.</li>
-        <li>Local embeddings, persistent SQLite history, and automated 90%+ accuracy eval suite.</li>
-        <li><a href="https://github.com/nouraizashraf/Docx-Q-A-chatbot-RAG-"><b>View Repository →</b></a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Automated Reddit Narration Pipeline</h3>
-      <p><b>Tech:</b> <code>Groq API</code> <code>edge-tts</code> <code>ffmpeg</code> <code>Whisper</code> <code>GitHub Actions</code></p>
-      <ul>
-        <li>Script-driven pipeline turning text into narrated short videos with automated captions.</li>
-        <li>Scheduled execution via GitHub Actions cron workflows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Site Auto-Test Crawler</h3>
-      <p><b>Tech:</b> <code>Node.js</code> <code>Playwright</code> <code>Groq API</code> <code>Google OAuth</code></p>
-      <ul>
-        <li>Automated crawler crawling site pages to flag issues and output plain-language summaries powered by Groq.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Frontend & UI**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend, AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F05032?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Neon%20PostgreSQL-00E599?style=flat-square&logo=postgresql&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
-### 🎓 Education
-
-```
-🎓 BS Computer Science
-   University of Central Punjab (UCP), Lahore
-
-📜 FSc (Pre-Engineering)
-   Aspire Group of Colleges
-
-🏫 Matriculation (Science)
-   City Model High School
-```
-
----
-
-### 📈 GitHub Live Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nouraizashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraizashraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF007F&text_color=c9d1d9" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<img src="https://github-readme-stats.vercel.app/api?username=nouraizashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=6EE7F7&text_color=e2e8f0" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraizashraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=e2e8f0" height="165"/>
 
-  <br/>
+<br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouraizashraf&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF" width="90%" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nouraizashraf&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=6EE7F7" width="70%"/>
 
-</div>
-
----
-
-### 📈 Commit Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nouraizashraf&theme=react-dark&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FF007F&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
 
-  ### 👁️ Profile Traffic
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nouraizashraf=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  </p>
+**Open to internship opportunities — feel free to reach out.**
 
-  <br/>
+[![Portfolio](https://img.shields.io/badge/nouraizashraf.devxyn.com-Visit%20Portfolio-6EE7F7?style=for-the-badge)](https://nouraizashraf.devxyn.com)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30&height=100&section=footer" width="100%" />
+![Visitor Count](https://komarev.com/ghpvc/?username=nouraizashraf&style=flat-square&color=A855F7&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6EE7F7&height=100&section=footer" width="100%"/>
 
 </div>
