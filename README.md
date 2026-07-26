@@ -43,16 +43,22 @@ The most ambitious thing on my workbench. A fully offline autonomous AI assistan
 
 Features universal app search, keyboard/mouse simulation, OCR, browser automation, and file summarization — all without a cloud dependency.
 
+[**View Repository →**](https://github.com/nouraizashraf/Hexa)
+
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Zonexy — White-Label Client Portal
 A multi-tenant SaaS portal that lets businesses serve clients under their own brand. Built the full stack: SaaS-grade authentication, per-client dashboards, and the backend APIs powering everything.
 
+🔒 *Private Repo*
+
 ---
 
 ### 🎯 Xtriq — B2B Lead Scraper
 Automated lead generation pipeline that scrapes, structures, and delivers clean business contact data at scale. Built for real sales workflows, not toy demos.
+
+[**View Repository →**](https://github.com/nouraizashraf/xtriq)
 
 </td>
 </tr>
@@ -70,10 +76,14 @@ Upload any document, ask it anything. Built a complete RAG pipeline — chunking
 ### 🎬 Reddit Narration Video Pipeline
 A fully automated pipeline that converts text into narrated short-form videos using Groq API, edge-tts, and ffmpeg. Whisper handles auto-captioning. The whole thing runs on a GitHub Actions cron schedule — zero manual steps.
 
+🔒 *Private Repo*
+
 ---
 
 ### 🔍 Site Auto-Test Crawler
 Node.js + Playwright crawler that walks every page of a site, flags issues, and hands the findings to Groq to summarize in plain English. Google OAuth session handling included.
+
+🔒 *Private Repo*
 
 </td>
 </tr>
