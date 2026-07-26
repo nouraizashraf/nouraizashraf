@@ -141,7 +141,7 @@ Node.js + Playwright crawler that walks every page of a site, flags issues, and 
 
 <div align="center">
 
-**Open to internship opportunities — feel free to reach out.**
+**Open to internship & job opportunities — feel free to reach out.**
 
 [![Portfolio](https://img.shields.io/badge/nouraizashraf.devxyn.com-Visit%20Portfolio-6EE7F7?style=for-the-badge)](https://nouraizashraf.devxyn.com)
 
