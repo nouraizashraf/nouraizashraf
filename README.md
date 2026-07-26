@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🔥 NEON CYBERPUNK HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg_color&customColorList=0d1117,161b22,1f242d&height=240&section=header&text=MUHAMMAD%20NOURAIZ%20ASHRAF&fontSize=65&fontColor=00F0FF&animation=fadeIn&desc=%E2%9A%A1%20Full%20Stack%20Web%20Developer%20(React)%20%7C%20AI%20Integrations%20%7C%20Automation%20%E2%9A%A1&descSize=20&descAlignY=70&descColor=FF007F" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=bg_color&customColorList=0d1117,161b22,1f242d&height=220&section=header&text=MUHAMMAD%20NOURAIZ%20ASHRAF&fontSize=42&fontColor=00F0FF&animation=fadeIn&desc=%E2%9A%A1%20Full%20Stack%20Web%20Developer%20(React)%20%7C%20AI%20Integrations%20%7C%20Automation%20%E2%9A%A1&descSize=16&descAlignY=70&descColor=FF007F" width="100%" />
 
   <br/><br/>
 
@@ -14,7 +14,7 @@
 
   <!-- DYNAMIC TYPING TERMINAL SIMULATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&multiline=false&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+AI+Integrations+Specialist+%F0%9F%9A%80;Building+Hexa+(Rust%2FC%2B%2B%2FPython+Autonomous+AI)+%F0%9F%A7%A0;Architecting+RAG+Pipelines+%26+White-Label+Portals+%F0%9F%93%84;Crafting+High-Performance+React+%2B+Node%2FFastAPI+Apps+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&multiline=false&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+AI+Integrations+Specialist+%F0%9F%9A%80;Building+Hexa+(Rust%2FC%2B%2B%2FPython+Autonomous+AI)+%F0%9F%A7%A0;Architecting+RAG+Pipelines+%26+White-Label+Portals+%F0%9F%93%84;Crafting+High-Performance+React+%2B+Node%2FFastAPI+Apps+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -267,7 +267,7 @@ developer_profile:
 
   ### 👁️ Profile Traffic
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nouraizashraf&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=nouraizashraf=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
   </p>
 
   <br/>
