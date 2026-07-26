@@ -5,6 +5,13 @@
 
   <br/><br/>
 
+  <!-- 🌐 PROMINENT LIVE PORTFOLIO BANNER -->
+  <a href="https://nouraizashraf.devxyn.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_LIVE_PORTFOLIO-nouraizashraf.devxyn.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
+  </a>
+
+  <br/><br/>
+
   <!-- DYNAMIC TYPING TERMINAL SIMULATION -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&multiline=false&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+AI+Integrations+Specialist+%F0%9F%9A%80;Building+Hexa+(Rust%2FC%2B%2B%2FPython+Autonomous+AI)+%F0%9F%A7%A0;Architecting+RAG+Pipelines+%26+White-Label+Portals+%F0%9F%93%84;Crafting+High-Performance+React+%2B+Node%2FFastAPI+Apps+%E2%9A%A1" alt="Typing SVG" />
@@ -14,12 +21,16 @@
 
   <!-- QUICK CONTACT BADGES -->
   <p align="center">
+    <a href="https://nouraizashraf.devxyn.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-nouraizashraf.devxyn.com-FF007F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    &nbsp;
     <a href="mailto:nouraizashraf08@gmail.com">
       <img src="https://img.shields.io/badge/Email-nouraizashraf08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://linkedin.com/in/nouraiz-ashraf">
-      <img src="https://img.shields.io/badge/LinkedIn-Nouraiz--Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/nouraiz-ashraf-626a92345/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-nouraiz--ashraf--626a92345-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;
     <a href="https://github.com/nouraizashraf">
@@ -40,6 +51,7 @@
 ```yaml
 developer_profile:
   name: Muhammad Nouraiz Ashraf
+  portfolio_website: https://nouraizashraf.devxyn.com
   role: Full Stack Web Developer (React) & AI Integrations Specialist
   education: BS Computer Science @ University of Central Punjab (UCP), Lahore
   objective: >
@@ -48,6 +60,7 @@ developer_profile:
     Seeking a full stack development internship to contribute practical engineering skills.
 ```
 
+- 🌐 **Live Portfolio Website**: 👉 **[nouraizashraf.devxyn.com](https://nouraizashraf.devxyn.com)**
 - 🔭 **Currently Building**: **Hexa** (Offline Autonomous AI Assistant) & RAG Document Intelligence Engines.
 - ⚡ **Core Superpowers**: React.js, Multi-Agent Systems (Rust/C++/Python), Playwright Automation, Groq API.
 - 💬 **Ask Me About**: Full-Stack Web Development, SaaS Auth, White-Label Portals, RAG Pipelines.
@@ -65,11 +78,12 @@ developer_profile:
 ```json
 {
   "name": "Muhammad Nouraiz Ashraf",
+  "portfolio": "https://nouraizashraf.devxyn.com",
   "contact": {
     "email": "nouraizashraf08@gmail.com",
     "phone": "+92 305 4544268",
-    "linkedin": "linkedin.com/in/nouraiz-ashraf",
-    "github": "github.com/nouraizashraf"
+    "linkedin": "https://www.linkedin.com/in/nouraiz-ashraf-626a92345/",
+    "github": "https://github.com/nouraizashraf"
   },
   "education": [
     "BS Computer Science — University of Central Punjab (UCP), Lahore",
